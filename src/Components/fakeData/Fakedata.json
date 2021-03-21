@@ -1,0 +1,16 @@
+          [{
+            "img": "https://toppng.com/public/uploads/preview/bajaj-pulsar-150-png-pulsar-150-bike-115628883560fgl2023ej.png",
+            "name": "Bike"
+          }, {
+            "img": "https://pngimg.com/uploads/ferrari/ferrari_PNG10679.png",
+            "name": "Car"
+          }, {
+            "img": "https://pngimg.com/uploads/bus/bus_PNG8636.png",
+            "name": "Bus"
+          }, {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqzKLBcUwaswq2dTKGzMy6TG1g2r1wb7HSYA&usqp=CAU",
+            "name": "Train"
+          }, {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXI6V1-aaMNoEw9hq7CuR81JQVLIJ_civ0g&usqp=CAU",
+            "name": "Cng"
+          }]

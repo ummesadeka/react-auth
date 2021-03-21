@@ -1,0 +1,1 @@
+export const locations = ['uttara','mirpur 1', 'gulshan', 'banani','rampura','malibag','jatrabari','dhanmandi',"mirpur 10","gabtali", "ashulia", "mohammad pur"];
