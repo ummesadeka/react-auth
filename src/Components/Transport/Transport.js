@@ -3,6 +3,7 @@ import { Card } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { linkStyle } from '../Header/Header';
 
+
 const Transport = (props) => {
      const {type,image,key} = props.transport;
     return (

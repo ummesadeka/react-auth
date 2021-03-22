@@ -3,6 +3,7 @@ import { Button, Container} from "react-bootstrap";
 import { useForm } from "react-hook-form";
 import "./Login.css";
 import { UserContext } from "../../App";
+
 import {
   googleSIgnIn,
   initiateLoginFramework,
@@ -33,7 +34,7 @@ const Login = () => {
   });
 
   const [newUser, setNewUser] = useState(false);
-  const [loogedInUser, setLoggedInUser] = useContext(UserContext);
+  const [loggedInUser, setLoggedInUser] = useContext(UserContext);
 
   const history = useHistory();
   const location = useLocation();
@@ -79,7 +80,7 @@ const Login = () => {
   return (
     <Container>
       <div className="form-container rounded">
-        <h4>Create an Acount</h4>
+        <h4>Create an Account</h4>
         <form onSubmit={handleSubmit(onSubmit)} className="form">
           {newUser && (
             <input
